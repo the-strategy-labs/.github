@@ -1,1 +1,1 @@
-# .github
+# THE STRATEGY LABS
